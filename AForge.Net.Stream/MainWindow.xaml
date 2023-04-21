@@ -100,7 +100,7 @@
         <Grid Width="150" Height="150" Margin="5">
             <Image HorizontalAlignment="Stretch"   VerticalAlignment="Stretch"  Stretch="Fill"/>
         </Grid>
-        <Grid Width="150" Height="150" Margin="5">
+        <!--<Grid Width="150" Height="150" Margin="5">
             <Image HorizontalAlignment="Stretch"   VerticalAlignment="Stretch"  Stretch="Fill"/>
         </Grid>
         <Grid Width="150" Height="150" Margin="5">
@@ -132,7 +132,7 @@
         </Grid>
         <Grid Width="150" Height="150" Margin="5">
             <Image HorizontalAlignment="Stretch"   VerticalAlignment="Stretch"  Stretch="Fill"/>
-        </Grid>
+        </Grid>-->
         <!--<Grid Width="150" Height="150" Margin="5">
             <Image HorizontalAlignment="Stretch"   VerticalAlignment="Stretch"  Stretch="Fill"/>
         </Grid>

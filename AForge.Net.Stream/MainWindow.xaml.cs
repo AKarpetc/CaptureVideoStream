@@ -31,10 +31,10 @@ namespace AForge.Net.Streams
     public partial class MainWindow : Window
     {
         //string url = "https://admin:pXmvbc12vX8@192.168.20.110/streamer/stream";
-        //string url = "https://192.168.20.110/streamer/stream";
+        string url = "https://192.168.20.110/streamer/stream";
 
 
-        string url = "http://192.168.100.7:8000/camera/mjpeg";
+        //string url = "http://192.168.100.7:8000/camera/mjpeg";
 
         ConcurrentDictionary<MGpegStreamExtended, System.Windows.Controls.Image> elements = new ConcurrentDictionary<MGpegStreamExtended, System.Windows.Controls.Image>();
         public MainWindow()
